@@ -25,7 +25,6 @@ public class CommentServiceImpl implements CommentService {
 
     @Autowired
     private CommentDAO commentDAO;
-
     @DubboReference(version = "${user.service.version}")
     private UserService userService;
 

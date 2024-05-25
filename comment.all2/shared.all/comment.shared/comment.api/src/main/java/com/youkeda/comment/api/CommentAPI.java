@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.List;
 
 /**
- * @author joe
+ * @author 亦忻
  */
 @Controller
 @RequestMapping("/api/comment")

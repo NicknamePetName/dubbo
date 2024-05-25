@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 
 
 /**
- * @author joe
+ * @author 亦忻
  */
 @Controller
 public class UserAPI {
